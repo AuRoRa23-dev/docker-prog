@@ -1,11 +1,12 @@
+Follow the below steps. refer the commits/folders for code.
 Step 1: Create Project Folder
-Open Terminal / Command Prompt
-mkdir microservices-docker
-cd microservices-docker
+  Open Terminal / Command Prompt
+  mkdir microservices-docker
+  cd microservices-docker
 Step 2: Create Folder Structure
-Create folders for services.
-mkdir user-service
-mkdir product-service
+  Create folders for services.
+  mkdir user-service
+  mkdir product-service
 Project structure:
 microservices-docker
 │
